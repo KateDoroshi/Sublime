@@ -1,0 +1,29 @@
+Keymap (Widows Users):
+[
+  { "keys": ["alt+shift+f"], "command": "reindent" },
+]
+
+Settings:
+{
+  "show definitions": false,
+  "bold_folder_labels": true,
+  "color_sheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+  "front_size": 13,
+  "highligt_line": true,
+  "indent_guide_options":
+  [
+     "draw_normal",
+     "draw_active"
+  ],
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+  "margin": 2,
+  "material_theme_compact_sidebar": true,
+  "material_theme_compact_panel": true,
+  "material_theme_small_statusbar": true,
+  "material_theme_small_tab": true,
+  "tab_size": 2,
+  "theme": "OneDarkMaterial.sublime-theme",
+  "world_wrap": "fals",
+}
+
